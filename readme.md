@@ -52,6 +52,7 @@ This is a simple **Emergency Hotline Web Application** built using **HTML, CSS (
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+
 #### 6. Answer the following questions clearly:
 
 ## 1 📌 What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?

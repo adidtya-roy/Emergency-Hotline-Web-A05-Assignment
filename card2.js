@@ -8,7 +8,6 @@ document.getElementById("love-btn2").addEventListener("click" , function(e){
     const hardClickBTN2 = hard2 + 1;
     document.getElementById("hardBtn").innerText = hardClickBTN2;
 
-
 })
 
 // Call Click and cart coin and History feature

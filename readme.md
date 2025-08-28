@@ -4,7 +4,7 @@
 - Responive Only for Desktop.
 
 ## 📌 Overview
-This is a simple **Emergency Hotline Web Application** built using **HTML, CSS (Tailwind CSS)** and **Vanilla JavaScript**.  
+This is a simple **Emergency Hotline Web Application** built using **HTML, CSS (Tailwind CSS and daisyUI )** and **Vanilla JavaScript**.  
 
 ###### 🧱 Features
 

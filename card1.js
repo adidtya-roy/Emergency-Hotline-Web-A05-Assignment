@@ -11,7 +11,6 @@ document.getElementById("love-btn").addEventListener("click" , function(e){
 
 })
 
-
 // Call Click and cart coin and History feature
 const history = document.getElementById("historyCard");
 const coin = document.getElementById("coin");

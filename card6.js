@@ -28,7 +28,6 @@ document.getElementById("CallBtn6").addEventListener("click", function(e) {
         alert("⚠️ You have 0 coins. Please add more coins to make a call.");
     }
 
-
     // This code will no longer produce negative currency
     if (call6 < 0) {
         call6 = 0;
